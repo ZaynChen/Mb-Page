@@ -1,0 +1,2 @@
+INSERT INTO `SYS_ROLE` VALUES ('1', '管理员', '1', '1', '2016-04-01 17:02:14');
+INSERT INTO `SYS_ROLE` VALUES ('2', '普通用户', '1', '1', '2016-04-01 17:02:34');
